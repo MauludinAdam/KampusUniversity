@@ -1,0 +1,19 @@
+body {
+    background: #9932CC;
+}
+
+.card-body {
+    width: 100%;
+    box-shadow: 1 solid rgba(0, 0, 0, .1);
+}
+
+form {
+    position: relative;
+    font-size: 17px;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
+    align-items: center;
+
+
+}

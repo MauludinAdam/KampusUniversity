@@ -1,0 +1,1 @@
+__ci_last_regenerate|i:1694075282;_ci_previous_url|s:42:"http://localhost:8080/index.php/auth/login";log|b:1;username|s:8:"Mauludin";email|s:13:"din@gmail.com";level|s:1:"3";foto|s:0:"";errors|a:2:{s:8:"username";s:43:"Username Wajib Diisi dan Tidak Boleh Kosong";s:8:"password";s:43:"Password Wajib Diisi dan Tidak Boleh Kosong";}__ci_vars|a:1:{s:6:"errors";s:3:"old";}
